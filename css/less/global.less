@@ -1,0 +1,161 @@
+@import "elements.less"; 
+
+html, body {
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+body {
+  margin:0;
+  padding:0;
+  width:100%;
+  overflow-y: scroll;
+  overflow-x: auto;
+  font-weight: 400;
+}
+.clear {
+  clear:both;
+}
+.col2{
+  float: left;
+  width: 50%;
+}
+span.spaced{ padding: 0 5px; }
+
+
+#slider {
+  height: 310px;
+  overflow: hidden;
+  position: relative;
+  .wrapper{
+    height: 300px;
+    .transition(1s);
+    position: relative;
+    top: 0;
+    left: 0;
+    .slide{position: relative; height: 300px; float: left; display: inline-block; overflow: hidden; }
+  }
+  .progress{
+    height: 10px;
+    position: relative;
+    .inner{
+      top: 0;
+      left: 0;
+      display: block;
+      height: 10px;
+      width: 0;
+      //.transition(100ms);
+    }
+  }
+}
+
+#reqjs
+{
+  display: none;
+  background-color: #A60000;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  div.big{
+    font-size: 1.5em;
+  }
+}
+.color-hex.bad{
+  background-color: #A60000;
+  color: white;
+}
+#header ul.header-menu{ list-style-type: none; }
+.items-grid {
+  margin-left:-1px;
+  width:100%;
+  .item {
+    //float:left;
+    display: inline-block;
+    margin-left:5px;
+    margin-top:5px;
+    width: 32%;
+    height:100px;
+  }
+}
+.links{
+  padding-top: 10px;
+  div{ text-align: center;}
+  a.next-page{ float: right;}
+  a.prev-page{ float: left;}
+}
+.control-group{
+  .control-label
+  {
+    float: left;
+    width: 160px;
+    padding-top: 5px;
+    text-align: right;
+  }
+  .controls{
+    margin-left: 180px;
+  }
+}
+input[disabled],
+select[disabled],
+textarea[disabled],
+input[readonly],
+select[readonly],
+textarea[readonly] {
+  cursor: not-allowed;
+  background-color: #EEE;
+}
+label{ vertical-align: middle; }
+table.table{
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  tr{
+    line-height: 40px;
+  }
+  td{
+    border-top: 1px solid #dddddd;
+    vertical-align: middle;
+    .btn{
+      vertical-align: baseline;
+    }
+  }
+  tr:nth-child(odd) > td{ background-color: #f1f1f1; }
+  .cube{
+    width: 40px;
+  }
+  .text{
+    padding-left: 10px;
+  }
+  .price{
+    width: 10%;
+    text-align: center;
+  }
+  .last{
+    width: 15%;
+    text-align: right;
+  }
+  .last2{
+    width: 30%;
+    text-align: right;
+  }
+}
+.color-preview{
+  width: 30px;
+  display: inline-block;
+  height: 100%;
+  padding: 4px;
+  line-height: 20px;
+  vertical-align: middle;
+  border: solid 1px #111;
+}
+
+/* modification du thème lorsqu'il n'y a pas de javascript */
+.nojs {
+  #reqjs
+  {
+    display: block;
+  }
+  .add-to-cart
+  {
+    display: none;
+  }
+}

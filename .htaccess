@@ -1,0 +1,16 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteBase /
+#IF
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule .* - [S=4]
+#ELSE
+	RewriteRule ^ajax/(.*)$ 				ajax.php?r=$1				[QSA,L]
+	RewriteRule ^style/(.*)\.css$ 			css/getless.php?s=$1		[QSA,L]
+	RewriteRule ^article/(.*)$ 				index.php?r=article&id=$1 	[QSA,L]
+	RewriteRule ^(.*)$ 						index.php?r=$1				[QSA,L]
+#END
+
+#ErrorDocument 404 URL_BASE/index.php?e=404
+#ErrorDocument 500 URL_BASE/index.php?e=500

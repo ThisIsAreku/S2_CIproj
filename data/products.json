@@ -1,0 +1,840 @@
+{
+    "CD5C5C": {
+        "hex": "CD5C5C",
+        "price": 31.86,
+        "name": "IndianRed",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maximus dolor, inquit, brevis est. Poterat autem inpune; Duo Reges: constructio interrete. Recte dicis; Tenent mordicus. Falli igitur possumus."
+    },
+    "F08080": {
+        "hex": "F08080",
+        "price": 59.51,
+        "name": "LightCoral",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Primum divisit ineleganter; Quorum altera prosunt, nocent altera. Sic consequentibus vestris sublatis prima tolluntur. Gerendus est mos, modo recte sentiat. Duo Reges: constructio interrete. Restatis igitur vos;",
+        "showcase": true
+    },
+    "FA8072": {
+        "hex": "FA8072",
+        "price": 9.25,
+        "name": "Salmon",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non laboro, inquit, de nomine. Cur deinde Metrodori liberos commendas? Duo Reges: constructio interrete. Quare conare, quaeso. Certe, nisi voluptatem tanti aestimaretis. Sed fortuna fortis;",
+        "showcase": true
+    },
+    "E9967A": {
+        "hex": "E9967A",
+        "price": 9.02,
+        "name": "DarkSalmon",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pulsi recurrant? Ut optime, secundum naturam affectum esse possit. Beatum, inquit."
+    },
+    "FFA07A": {
+        "hex": "FFA07A",
+        "price": 55.56,
+        "name": "LightSalmon",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At multis malis affectus. Eam stabilem appellas. Nihilo magis. Poterat autem inpune; Immo alio genere; An potest cupiditas finiri?"
+    },
+    "DC143C": {
+        "hex": "DC143C",
+        "price": 34.03,
+        "name": "Crimson",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id aliis narrare gestiant? Gerendus est mos, modo recte sentiat. Negat enim summo bono afferre incrementum diem. Optime, inquam. Duo Reges: constructio interrete."
+    },
+    "FF0000": {
+        "hex": "FF0000",
+        "price": 14.84,
+        "name": "Red",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est, ut dicis, inquam. Sumenda potius quam expetenda. Vide, quaeso, rectumne sit. Si longus, levis dictata sunt. Cum praesertim illa perdiscere ludus esset."
+    },
+    "B22222": {
+        "hex": "B22222",
+        "price": 56.61,
+        "name": "FireBrick",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quippe: habes enim a rhetoribus; Et quidem, inquit, vehementer errat; Refert tamen, quo modo."
+    },
+    "8B0000": {
+        "hex": "8B0000",
+        "price": 3.74,
+        "name": "DarkRed",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Obsecro, inquit, Torquate, haec dicit Epicurus? Quis istud possit, inquit, negare? Omnis enim est natura diligens sui."
+    },
+    "FFC0CB": {
+        "hex": "FFC0CB",
+        "price": 42.3,
+        "name": "Pink",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Num quid tale Democritus? Facete M. Atqui reperies, inquit, in hoc quidem pertinacem; Istic sum, inquit."
+    },
+    "FFB6C1": {
+        "hex": "FFB6C1",
+        "price": 30.75,
+        "name": "LightPink",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid nunc honeste dicit? Sed quot homines, tot sententiae; Respondent extrema primis, media utrisque, omnia omnibus. Duo Reges: constructio interrete. Quis est tam dissimile homini. Nam Pyrrho, Aristo, Erillus iam diu abiecti. Sed haec omittamus;"
+    },
+    "FF69B4": {
+        "hex": "FF69B4",
+        "price": 34.4,
+        "name": "HotPink",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hic nihil fuit, quod quaereremus. Ut id aliis narrare gestiant? Occultum facinus esse potuerit, gaudebit; Duo Reges: constructio interrete. Aperiendum est igitur, quid sit voluptas; Nemo igitur esse beatus potest."
+    },
+    "FF1493": {
+        "hex": "FF1493",
+        "price": 7.96,
+        "name": "DeepPink",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Graece donan, Latine voluptatem vocant. Videsne quam sit magna dissensio? Quippe: habes enim a rhetoribus; Primum divisit ineleganter; Sint ista Graecorum; An tu me de L."
+    },
+    "C71585": {
+        "hex": "C71585",
+        "price": 49.08,
+        "name": "MediumVioletRed",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eam stabilem appellas. Audeo dicere, inquit. Nescio quo modo praetervolavit oratio. Sequitur disserendi ratio cognitioque naturae;"
+    },
+    "DB7093": {
+        "hex": "DB7093",
+        "price": 9.85,
+        "name": "PaleVioletRed",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quamquam id quidem licebit iis existimare, qui legerint. Mihi, inquam, qui te id ipsum rogavi? Cur haec eadem Democritus? Duo Reges: constructio interrete. Memini vero, inquam;"
+    },
+    "FF7F50": {
+        "hex": "FF7F50",
+        "price": 32.1,
+        "name": "Coral",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Restinguet citius, si ardentem acceperit. Equidem e Cn. Tuo vero id quidem, inquam, arbitratu. Tamen a proposito, inquam, aberramus. Nemo igitur esse beatus potest. Duo Reges: constructio interrete."
+    },
+    "FF6347": {
+        "hex": "FF6347",
+        "price": 59.58,
+        "name": "Tomato",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Prave, nequiter, turpiter cenabat; Easdemne res? At enim sequor utilitatem. Quid enim? Quod ea non occurrentia fingunt, vincunt Aristonem; Quae duo sunt, unum facit."
+    },
+    "FF4500": {
+        "hex": "FF4500",
+        "price": 11.75,
+        "name": "OrangeRed",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quid sentiat, non videtis. Invidiosum nomen est, infame, suspectum. Stoici scilicet. Duo Reges: constructio interrete.",
+        "showcase": true
+    },
+    "FF8C00": {
+        "hex": "FF8C00",
+        "price": 17.55,
+        "name": "DarkOrange",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est igitur voluptas bonum. Putabam equidem satis, inquit, me dixisse. Scrupulum, inquam, abeunti; Equidem e Cn. Quis istud possit, inquit, negare? Duo Reges: constructio interrete."
+    },
+    "FFA500": {
+        "hex": "FFA500",
+        "price": 6.72,
+        "name": "Orange",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae duo sunt, unum facit. Graccho, eius fere, aequal\u00ed? Sed quid sentiat, non videtis."
+    },
+    "FFD700": {
+        "hex": "FFD700",
+        "price": 14.59,
+        "name": "Gold",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae autem natura suae primae institutionis oblita est? Recte dicis;"
+    },
+    "FFFF00": {
+        "hex": "FFFF00",
+        "price": 3.3,
+        "name": "Yellow",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neutrum vero, inquit ille. Nunc agendum est subtilius. Duo Reges: constructio interrete. Nos commodius agimus."
+    },
+    "FFFFE0": {
+        "hex": "FFFFE0",
+        "price": 21.08,
+        "name": "LightYellow",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Respondeat totidem verbis. Quid ait Aristoteles reliquique Platonis alumni? Occultum facinus esse potuerit, gaudebit; Non igitur bene."
+    },
+    "FFFACD": {
+        "hex": "FFFACD",
+        "price": 14.3,
+        "name": "LemonChiffon",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Torquatus, is qui consul cum Cn. ALIO MODO. Sed nunc, quod agimus; Sed haec nihil sane ad rem; Duo Reges: constructio interrete."
+    },
+    "FAFAD2": {
+        "hex": "FAFAD2",
+        "price": 54.59,
+        "name": "LightGoldenrodYellow",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facillimum id quidem est, inquam. Maximus dolor, inquit, brevis est. Inde igitur, inquit, ordiendum est. Quibusnam praeteritis? Duo Reges: constructio interrete. Ratio quidem vestra sic cogit."
+    },
+    "FFEFD5": {
+        "hex": "FFEFD5",
+        "price": 4.59,
+        "name": "PapayaWhip",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. An eiusdem modi? An eiusdem modi? Minime vero istorum quidem, inquit."
+    },
+    "FFE4B5": {
+        "hex": "FFE4B5",
+        "price": 22.42,
+        "name": "Moccasin",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Beatum, inquit. Dici enim nihil potest verius. Comprehensum, quod cognitum non habet? Si quae forte-possumus. Tria genera bonorum; Cur post Tarentum ad Archytam?"
+    },
+    "FFDAB9": {
+        "hex": "FFDAB9",
+        "price": 30.09,
+        "name": "PeachPuff",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hoc tu nunc in illo probas. Quod quidem nobis non saepe contingit. Quis enim redargueret?"
+    },
+    "EEE8AA": {
+        "hex": "EEE8AA",
+        "price": 21,
+        "name": "PaleGoldenrod",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sedulo, inquam, faciam. Immo alio genere; At hoc in eo M. Quis hoc dicit?"
+    },
+    "F0E68C": {
+        "hex": "F0E68C",
+        "price": 3.93,
+        "name": "Khaki",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id aliis narrare gestiant? Quae diligentissime contra Aristonem dicuntur a Chryippo. Restinguet citius, si ardentem acceperit. Vide, quaeso, rectumne sit."
+    },
+    "BDB76B": {
+        "hex": "BDB76B",
+        "price": 25.83,
+        "name": "DarkKhaki",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suo genere perveniant ad extremum; At hoc in eo M. Quid sequatur, quid repugnet, vident. Si quae forte-possumus. Ad eos igitur converte te, quaeso. Duo Reges: constructio interrete."
+    },
+    "E6E6FA": {
+        "hex": "E6E6FA",
+        "price": 12.58,
+        "name": "Lavender",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quare conare, quaeso. Peccata paria. Duo Reges: constructio interrete. De illis, cum volemus."
+    },
+    "D8BFD8": {
+        "hex": "D8BFD8",
+        "price": 1.71,
+        "name": "Thistle",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Stoici scilicet. Iam in altera philosophiae parte. Duo Reges: constructio interrete. Haec dicuntur fortasse ieiunius;"
+    },
+    "DDA0DD": {
+        "hex": "DDA0DD",
+        "price": 23.93,
+        "name": "Plum",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Torquatus, is qui consul cum Cn. Est, ut dicis, inquit; Duo Reges: constructio interrete. Ita prorsus, inquam; Ubi ut eam caperet aut quando?"
+    },
+    "EE82EE": {
+        "hex": "EE82EE",
+        "price": 31.78,
+        "name": "Violet",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urgent tamen et nihil remittunt. Certe non potest. Age sane, inquam. Si longus, levis dictata sunt."
+    },
+    "DA70D6": {
+        "hex": "DA70D6",
+        "price": 8.24,
+        "name": "Orchid",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Age sane, inquam. Itaque his sapiens semper vacabit. Sed ad rem redeamus; Quonam, inquit, modo?"
+    },
+    "FF00FF": {
+        "hex": "FF00FF",
+        "price": 38.4,
+        "name": "Magenta",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quam ob rem tandem, inquit, non satisfacit? Duo Reges: constructio interrete. Quis enim redargueret? Graccho, eius fere, aequal\u00ed? Aliter autem vobis placet. Vide, quantum, inquam, fallare, Torquate."
+    },
+    "BA55D3": {
+        "hex": "BA55D3",
+        "price": 17.69,
+        "name": "MediumOrchid",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iam in altera philosophiae parte. Iam contemni non poteris. At ille pellit, qui permulcet sensum voluptate. Tria genera bonorum; Duo Reges: constructio interrete."
+    },
+    "9370DB": {
+        "hex": "9370DB",
+        "price": 5.55,
+        "name": "MediumPurple",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hoc sane concedamus. Age sane, inquam. Ut aliquid scire se gaudeant? Que Manilium, ab iisque M. Ut pulsi recurrant?"
+    },
+    "8A2BE2": {
+        "hex": "8A2BE2",
+        "price": 27.92,
+        "name": "BlueViolet",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Age sane, inquam. Beatum, inquit."
+    },
+    "9400D3": {
+        "hex": "9400D3",
+        "price": 39.17,
+        "name": "DarkViolet",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum praesertim illa perdiscere ludus esset. Quid ad utilitatem tantae pecuniae? Audeo dicere, inquit. Tubulo putas dicere?"
+    },
+    "9932CC": {
+        "hex": "9932CC",
+        "price": 24.57,
+        "name": "DarkOrchid",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Que Manilium, ab iisque M. Hunc vos beatum; Quare conare, quaeso.",
+        "showcase": true
+    },
+    "8B008B": {
+        "hex": "8B008B",
+        "price": 20.67,
+        "name": "DarkMagenta",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. An eiusdem modi? Perge porro; Nihilo magis. Dicimus aliquem hilare vivere; Paria sunt igitur. Duo Reges: constructio interrete."
+    },
+    "800080": {
+        "hex": "800080",
+        "price": 56.81,
+        "name": "Purple",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid de Pythagora? Qui convenit? Cui Tubuli nomen odio non est? Duo Reges: constructio interrete. Que Manilium, ab iisque M. Hoc simile tandem est? Haec dicuntur inconstantissime. Erat enim res aperta."
+    },
+    "4B0082": {
+        "hex": "4B0082",
+        "price": 48.55,
+        "name": "Indigo",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tria genera bonorum; Respondeat totidem verbis. Videsne, ut haec concinant? Quis istud, quaeso, nesciebat? Duo Reges: constructio interrete. Quo modo?"
+    },
+    "6A5ACD": {
+        "hex": "6A5ACD",
+        "price": 35.83,
+        "name": "SlateBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praeclare hoc quidem. Nulla erit controversia. Sed quot homines, tot sententiae; Nunc agendum est subtilius. Ratio quidem vestra sic cogit. Quare conare, quaeso."
+    },
+    "483D8B": {
+        "hex": "483D8B",
+        "price": 13.99,
+        "name": "DarkSlateBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scrupulum, inquam, abeunti; Tubulo putas dicere? Sed fac ista esse non inportuna; Cum praesertim illa perdiscere ludus esset. Sed haec nihil sane ad rem; Vide, quantum, inquam, fallare, Torquate."
+    },
+    "ADFF2F": {
+        "hex": "ADFF2F",
+        "price": 41.57,
+        "name": "GreenYellow",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Negat esse eam, inquit, propter se expetendam. Nescio quo modo praetervolavit oratio. Poterat autem inpune; Cur iustitia laudatur? Duo Reges: constructio interrete. Rationis enim perfectio est virtus;"
+    },
+    "7FFF00": {
+        "hex": "7FFF00",
+        "price": 19.91,
+        "name": "Chartreuse",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neutrum vero, inquit ille. Tenent mordicus. Quaerimus enim finem bonorum. Duo Reges: constructio interrete."
+    },
+    "7CFC00": {
+        "hex": "7CFC00",
+        "price": 18.99,
+        "name": "LawnGreen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Qui est in parvis malis. Respondeat totidem verbis. Sed videbimus. Laboro autem non sine causa; Duo Reges: constructio interrete. Tubulo putas dicere?"
+    },
+    "00FF00": {
+        "hex": "00FF00",
+        "price": 36.11,
+        "name": "Lime",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Si id dicis, vicimus. Si quae forte-possumus. Hoc simile tandem est? Scaevolam M."
+    },
+    "32CD32": {
+        "hex": "32CD32",
+        "price": 33.04,
+        "name": "LimeGreen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Murenam te accusante defenderem. Quid ad utilitatem tantae pecuniae? Quod equidem non reprehendo; Si longus, levis; In schola desinis. Duo Reges: constructio interrete.",
+        "showcase": true
+    },
+    "98FB98": {
+        "hex": "98FB98",
+        "price": 54.75,
+        "name": "PaleGreen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est, ut dicis, inquam. Proclivi currit oratio. Nihil sane."
+    },
+    "90EE90": {
+        "hex": "90EE90",
+        "price": 26.28,
+        "name": "LightGreen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laboro autem non sine causa; Audeo dicere, inquit. Prioris generis est docilitas, memoria;"
+    },
+    "00FA9A": {
+        "hex": "00FA9A",
+        "price": 7.62,
+        "name": "MediumSpringGreen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Si longus, levis; Nam ante Aristippus, et ille melius. Duo Reges: constructio interrete. Haec para\/doca illi, nos admirabilia dicamus."
+    },
+    "00FF7F": {
+        "hex": "00FF7F",
+        "price": 12.34,
+        "name": "SpringGreen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quare attende, quaeso. Quid autem habent admirationis, cum prope accesseris? Respondeat totidem verbis. Ea possunt paria non esse. Duo Reges: constructio interrete."
+    },
+    "3CB371": {
+        "hex": "3CB371",
+        "price": 45.36,
+        "name": "MediumSeaGreen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quaerimus enim finem bonorum. Sequitur disserendi ratio cognitioque naturae; Quid enim? An eiusdem modi?"
+    },
+    "2E8B57": {
+        "hex": "2E8B57",
+        "price": 3.29,
+        "name": "SeaGreen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit enim idem caecus, debilis. Hunc vos beatum; Haeret in salebra. Sed fortuna fortis; Restatis igitur vos; Hoc ipsum elegantius poni meliusque potuit."
+    },
+    "228B22": {
+        "hex": "228B22",
+        "price": 21.73,
+        "name": "ForestGreen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Haec igitur Epicuri non probo, inquam. Id Sextilius factum negabat. At enim hic etiam dolore. Duo Reges: constructio interrete. Certe non potest. Sed haec in pueris; Tum mihi Piso: Quid ergo? Bonum patria: miserum exilium."
+    },
+    "008000": {
+        "hex": "008000",
+        "price": 38.84,
+        "name": "Green",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Confecta res esset. Videsne quam sit magna dissensio? Age sane, inquam. Sed ad illum redeo. Ergo, inquit, tibi Q. An eiusdem modi?"
+    },
+    "006400": {
+        "hex": "006400",
+        "price": 22.01,
+        "name": "DarkGreen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla erit controversia. Hoc sic expositum dissimile est superiori. Sedulo, inquam, faciam."
+    },
+    "9ACD32": {
+        "hex": "9ACD32",
+        "price": 41.91,
+        "name": "YellowGreen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid est igitur, inquit, quod requiras? Praeclarae mortes sunt imperatoriae; Pugnant Stoici cum Peripateticis. Duo Reges: constructio interrete. Quid sequatur, quid repugnet, vident. Confecta res esset. Nunc de hominis summo bono quaeritur;"
+    },
+    "6B8E23": {
+        "hex": "6B8E23",
+        "price": 48.52,
+        "name": "OliveDrab",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Omnis enim est natura diligens sui. Eam stabilem appellas. Dicimus aliquem hilare vivere;"
+    },
+    "808000": {
+        "hex": "808000",
+        "price": 50.67,
+        "name": "Olive",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tria genera bonorum; Sed videbimus. Si longus, levis dictata sunt. Cyrenaici quidem non recusant; Duo Reges: constructio interrete. Sint modo partes vitae beatae."
+    },
+    "556B2F": {
+        "hex": "556B2F",
+        "price": 1.7,
+        "name": "DarkOliveGreen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tenent mordicus. Satis est ad hoc responsum. Nihilo magis. Murenam te accusante defenderem. Invidiosum nomen est, infame, suspectum. Duo Reges: constructio interrete."
+    },
+    "66CDAA": {
+        "hex": "66CDAA",
+        "price": 38,
+        "name": "MediumAquamarine",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At coluit ipse amicitias. Quo tandem modo? Tibi hoc incredibile, quod beatissimum. Hic nihil fuit, quod quaereremus. Duo Reges: constructio interrete. Ut pulsi recurrant?"
+    },
+    "8FBC8F": {
+        "hex": "8FBC8F",
+        "price": 33.44,
+        "name": "DarkSeaGreen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egone quaeris, inquit, quid sentiam? Sint modo partes vitae beatae. Refert tamen, quo modo. Minime vero istorum quidem, inquit."
+    },
+    "20B2AA": {
+        "hex": "20B2AA",
+        "price": 56.7,
+        "name": "LightSeaGreen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At hoc in eo M. Hoc est non dividere, sed frangere. Quid ergo?",
+        "showcase": true
+    },
+    "008B8B": {
+        "hex": "008B8B",
+        "price": 39.34,
+        "name": "DarkCyan",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Certe non potest. Erat enim Polemonis. Inde igitur, inquit, ordiendum est."
+    },
+    "008080": {
+        "hex": "008080",
+        "price": 22.3,
+        "name": "Teal",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non autem hoc: igitur ne illud quidem. Quid Zeno? Duo Reges: constructio interrete."
+    },
+    "00FFFF": {
+        "hex": "00FFFF",
+        "price": 40.39,
+        "name": "Cyan",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Polycratem Samium felicem appellabant. Hoc est non dividere, sed frangere. Egone quaeris, inquit, quid sentiam? Quibus ego vehementer assentior. Duo Reges: constructio interrete."
+    },
+    "E0FFFF": {
+        "hex": "E0FFFF",
+        "price": 23.6,
+        "name": "LightCyan",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ratio enim nostra consentit, pugnat oratio. Eadem nunc mea adversum te oratio est. An eiusdem modi? Duo Reges: constructio interrete. Quis hoc dicit? Nulla erit controversia. Quis istum dolorem timet?"
+    },
+    "AFEEEE": {
+        "hex": "AFEEEE",
+        "price": 54.7,
+        "name": "PaleTurquoise",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid est enim aliud esse versutum? Quonam modo? Itaque contra est, ac dicitis; Sint ista Graecorum; Duo Reges: constructio interrete. Ita nemo beato beatior."
+    },
+    "7FFFD4": {
+        "hex": "7FFFD4",
+        "price": 55.33,
+        "name": "Aquamarine",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tollenda est atque extrahenda radicitus. Cave putes quicquam esse verius. Equidem e Cn."
+    },
+    "40E0D0": {
+        "hex": "40E0D0",
+        "price": 10.21,
+        "name": "Turquoise",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eaedem res maneant alio modo. Ubi ut eam caperet aut quando? Recte, inquit, intellegis. Ne in odium veniam, si amicum destitero tueri. Duo Reges: constructio interrete. Quae cum essent dicta, discessimus. Nunc agendum est subtilius."
+    },
+    "48D1CC": {
+        "hex": "48D1CC",
+        "price": 51.3,
+        "name": "MediumTurquoise",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis hoc dicit? Quo modo autem philosophus loquitur? Sed quid sentiat, non videtis. Quae sequuntur igitur? Frater et T. Duo Reges: constructio interrete."
+    },
+    "00CED1": {
+        "hex": "00CED1",
+        "price": 21.38,
+        "name": "DarkTurquoise",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id aliis narrare gestiant? Quod totum contra est. Hic nihil fuit, quod quaereremus. Duo Reges: constructio interrete. Ita multa dicunt, quae vix intellegam. Quare conare, quaeso. Sedulo, inquam, faciam. Quis Aristidem non mortuum diligit?"
+    },
+    "5F9EA0": {
+        "hex": "5F9EA0",
+        "price": 20.51,
+        "name": "CadetBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Stoici scilicet. Tu quidem reddes; Quorum altera prosunt, nocent altera. At enim sequor utilitatem. Quid de Pythagora? At hoc in eo M."
+    },
+    "4682B4": {
+        "hex": "4682B4",
+        "price": 13.43,
+        "name": "SteelBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ostendit pedes et pectus. Hic ambiguo ludimur. Quae sequuntur igitur? Recte, inquit, intellegis."
+    },
+    "B0C4DE": {
+        "hex": "B0C4DE",
+        "price": 7.17,
+        "name": "LightSteelBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Certe, nisi voluptatem tanti aestimaretis. Quid ergo?"
+    },
+    "B0E0E6": {
+        "hex": "B0E0E6",
+        "price": 55.03,
+        "name": "PowderBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Haec quo modo conveniant, non sane intellego. Si longus, levis; Quae duo sunt, unum facit. Minime vero, inquit ille, consentit. Duo Reges: constructio interrete. Negare non possum. Frater et T."
+    },
+    "ADD8E6": {
+        "hex": "ADD8E6",
+        "price": 45.85,
+        "name": "LightBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Equidem e Cn. Et nemo nimium beatus est; Duo enim genera quae erant, fecit tria. Sedulo, inquam, faciam. Duo Reges: constructio interrete."
+    },
+    "87CEEB": {
+        "hex": "87CEEB",
+        "price": 13.67,
+        "name": "SkyBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliter enim nosmet ipsos nosse non possumus. Easdemne res? Tamen a proposito, inquam, aberramus. Egone quaeris, inquit, quid sentiam? Duo Reges: constructio interrete."
+    },
+    "87CEFA": {
+        "hex": "87CEFA",
+        "price": 38.19,
+        "name": "LightSkyBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non semper, inquam; Audeo dicere, inquit. Confecta res esset. Duo Reges: constructio interrete.",
+        "showcase": true
+    },
+    "00BFFF": {
+        "hex": "00BFFF",
+        "price": 34.34,
+        "name": "DeepSkyBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Philosophi autem in suis lectulis plerumque moriuntur. Eadem nunc mea adversum te oratio est. Idemne, quod iucunde? Quod quidem nobis non saepe contingit. Duo Reges: constructio interrete."
+    },
+    "1E90FF": {
+        "hex": "1E90FF",
+        "price": 42.66,
+        "name": "DodgerBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Honesta oratio, Socratica, Platonis etiam. Ille enim occurrentia nescio quae comminiscebatur; Contineo me ab exemplis. Frater et T. Comprehensum, quod cognitum non habet?"
+    },
+    "6495ED": {
+        "hex": "6495ED",
+        "price": 17.08,
+        "name": "CornflowerBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis istud possit, inquit, negare? Disserendi artem nullam habuit. Nonne igitur tibi videntur, inquit, mala? Duo Reges: constructio interrete. Non est ista, inquam, Piso, magna dissensio."
+    },
+    "7B68EE": {
+        "hex": "7B68EE",
+        "price": 50.59,
+        "name": "MediumSlateBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna laus. Ita prorsus, inquam; Laboro autem non sine causa; In schola desinis."
+    },
+    "4169E1": {
+        "hex": "4169E1",
+        "price": 53.65,
+        "name": "RoyalBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At certe gravius. Et nemo nimium beatus est; Cur haec eadem Democritus? Quibusnam praeteritis? Quis istum dolorem timet? Duo Reges: constructio interrete."
+    },
+    "0000FF": {
+        "hex": "0000FF",
+        "price": 40.68,
+        "name": "Blue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod iam a me expectare noli. Quae sequuntur igitur? Hoc sic expositum dissimile est superiori. An potest cupiditas finiri? Duo Reges: constructio interrete."
+    },
+    "0000CD": {
+        "hex": "0000CD",
+        "price": 5.68,
+        "name": "MediumBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid est igitur, inquit, quod requiras? Ecce aliud simile dissimile. Sed fortuna fortis; Recte, inquit, intellegis. Iam in altera philosophiae parte."
+    },
+    "00008B": {
+        "hex": "00008B",
+        "price": 16.95,
+        "name": "DarkBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis enim redargueret? Sed ad rem redeamus; Tubulo putas dicere? Ita prorsus, inquam; Facete M."
+    },
+    "000080": {
+        "hex": "000080",
+        "price": 44.74,
+        "name": "Navy",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sequitur disserendi ratio cognitioque naturae; Nulla erit controversia. Beatus sibi videtur esse moriens. Nullus est igitur cuiusquam dies natalis."
+    },
+    "191970": {
+        "hex": "191970",
+        "price": 42.54,
+        "name": "MidnightBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Recte, inquit, intellegis. Minime vero, inquit ille, consentit. Quis enim redargueret?"
+    },
+    "FFF8DC": {
+        "hex": "FFF8DC",
+        "price": 49.32,
+        "name": "Cornsilk",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Itaque contra est, ac dicitis; Nihil enim hoc differt. Nihil enim hoc differt. Efficiens dici potest. Si longus, levis;"
+    },
+    "FFEBCD": {
+        "hex": "FFEBCD",
+        "price": 27.36,
+        "name": "BlanchedAlmond",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed videbimus. Quo tandem modo? Istic sum, inquit. Ego vero isti, inquam, permitto."
+    },
+    "FFE4C4": {
+        "hex": "FFE4C4",
+        "price": 57.16,
+        "name": "Bisque",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neutrum vero, inquit ille. Ut optime, secundum naturam affectum esse possit. Quis hoc dicit? Immo alio genere; Id Sextilius factum negabat. Sed ego in hoc resisto;"
+    },
+    "FFDEAD": {
+        "hex": "FFDEAD",
+        "price": 18.07,
+        "name": "NavajoWhite",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid censes in Latino fore? Quis istud, quaeso, nesciebat? Age sane, inquam. Duo Reges: constructio interrete. Nulla erit controversia. Vide, quantum, inquam, fallare, Torquate.",
+        "showcase": true
+    },
+    "F5DEB3": {
+        "hex": "F5DEB3",
+        "price": 1.94,
+        "name": "Wheat",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sequitur disserendi ratio cognitioque naturae; Non igitur bene. Duo Reges: constructio interrete. Nos paucis ad haec additis finem faciamus aliquando; Numquam facies. Laboro autem non sine causa;"
+    },
+    "DEB887": {
+        "hex": "DEB887",
+        "price": 18.55,
+        "name": "BurlyWood",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Satis est ad hoc responsum. Duo Reges: constructio interrete. Itaque ad tempus ad Pisonem omnes. Maximus dolor, inquit, brevis est. Quis enim redargueret? Philosophi autem in suis lectulis plerumque moriuntur."
+    },
+    "D2B48C": {
+        "hex": "D2B48C",
+        "price": 33.54,
+        "name": "Tan",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Itaque his sapiens semper vacabit. Istic sum, inquit."
+    },
+    "BC8F8F": {
+        "hex": "BC8F8F",
+        "price": 23.5,
+        "name": "RosyBrown",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Recte, inquit, intellegis. Conferam avum tuum Drusum cum C. Quo tandem modo? Sed quod proximum fuit non vidit."
+    },
+    "F4A460": {
+        "hex": "F4A460",
+        "price": 14.02,
+        "name": "SandyBrown",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Verum hoc idem saepe faciamus. Primum Theophrasti, Strato, physicum se voluit; Is es profecto tu. Erat enim Polemonis. At enim hic etiam dolore. Duo Reges: constructio interrete."
+    },
+    "DAA520": {
+        "hex": "DAA520",
+        "price": 51.89,
+        "name": "Goldenrod",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idemne, quod iucunde? Primum quid tu dicis breve? Moriatur, inquit. Duo Reges: constructio interrete. Haec dicuntur inconstantissime."
+    },
+    "B8860B": {
+        "hex": "B8860B",
+        "price": 13.16,
+        "name": "DarkGoldenrod",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Certe non potest. Sed residamus, inquit, si placet. Sed fortuna fortis;"
+    },
+    "CD853F": {
+        "hex": "CD853F",
+        "price": 28.05,
+        "name": "Peru",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Iam in altera philosophiae parte. Dici enim nihil potest verius. Ego vero isti, inquam, permitto. At certe gravius. Duo Reges: constructio interrete. Haec dicuntur fortasse ieiunius; Haeret in salebra."
+    },
+    "D2691E": {
+        "hex": "D2691E",
+        "price": 41.16,
+        "name": "Chocolate",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam Pyrrho, Aristo, Erillus iam diu abiecti. Quare attende, quaeso. Omnis enim est natura diligens sui. Itaque contra est, ac dicitis; Quod equidem non reprehendo;",
+        "showcase": true
+    },
+    "8B4513": {
+        "hex": "8B4513",
+        "price": 12.9,
+        "name": "SaddleBrown",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In schola desinis. Quod cum dixissent, ille contra. Quo modo autem philosophus loquitur? Faceres tu quidem, Torquate, haec omnia;"
+    },
+    "A0522D": {
+        "hex": "A0522D",
+        "price": 44.67,
+        "name": "Sienna",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Immo alio genere; Explanetur igitur. Poterat autem inpune; Sed haec nihil sane ad rem; Hic ambiguo ludimur. Duo Reges: constructio interrete."
+    },
+    "A52A2A": {
+        "hex": "A52A2A",
+        "price": 57.31,
+        "name": "Brown",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Memini vero, inquam; Duo Reges: constructio interrete. Sed ille, ut dixi, vitiose. At hoc in eo M."
+    },
+    "800000": {
+        "hex": "800000",
+        "price": 5.33,
+        "name": "Maroon",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Qui convenit? Quare ad ea primum, si videtur; Vide, quaeso, rectumne sit. An tu me de L. A mene tu? Duo Reges: constructio interrete."
+    },
+    "FFFFFF": {
+        "hex": "FFFFFF",
+        "price": 8.44,
+        "name": "White",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Venit ad extremum; Optime, inquam. Duo Reges: constructio interrete."
+    },
+    "FFFAFA": {
+        "hex": "FFFAFA",
+        "price": 53.59,
+        "name": "Snow",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non igitur bene. Neutrum vero, inquit ille. Verum hoc idem saepe faciamus. Duo Reges: constructio interrete. Expectoque quid ad id, quod quaerebam, respondeas. Non est igitur voluptas bonum. Quam ob rem tandem, inquit, non satisfacit?"
+    },
+    "F0FFF0": {
+        "hex": "F0FFF0",
+        "price": 42.53,
+        "name": "Honeydew",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ita prorsus, inquam; Ut pulsi recurrant? Ratio quidem vestra sic cogit. Quis hoc dicit? Duo Reges: constructio interrete. Memini vero, inquam; Sed fortuna fortis; Mihi, inquam, qui te id ipsum rogavi?"
+    },
+    "F5FFFA": {
+        "hex": "F5FFFA",
+        "price": 3.18,
+        "name": "MintCream",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Primum quid tu dicis breve? Si longus, levis;"
+    },
+    "F0FFFF": {
+        "hex": "F0FFFF",
+        "price": 42.51,
+        "name": "Azure",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egone quaeris, inquit, quid sentiam? Eademne, quae restincta siti? An eiusdem modi? Torquatus, is qui consul cum Cn. Refert tamen, quo modo."
+    },
+    "F0F8FF": {
+        "hex": "F0F8FF",
+        "price": 53.55,
+        "name": "AliceBlue",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui reperies, inquit, in hoc quidem pertinacem; Sedulo, inquam, faciam. Summae mihi videtur inscitiae."
+    },
+    "F8F8FF": {
+        "hex": "F8F8FF",
+        "price": 55.57,
+        "name": "GhostWhite",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Graccho, eius fere, aequal\u00ed? Quod totum contra est. Efficiens dici potest. Contineo me ab exemplis. Ita credo. Memini vero, inquam;"
+    },
+    "F5F5F5": {
+        "hex": "F5F5F5",
+        "price": 38.49,
+        "name": "WhiteSmoke",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Qua tu etiam inprudens utebare non numquam. Nos commodius agimus. Qui ita affectus, beatum esse numquam probabis;"
+    },
+    "FFF5EE": {
+        "hex": "FFF5EE",
+        "price": 20.46,
+        "name": "Seashell",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Illa tamen simplicia, vestra versuta. At certe gravius. Praeclarae mortes sunt imperatoriae; Duo Reges: constructio interrete."
+    },
+    "F5F5DC": {
+        "hex": "F5F5DC",
+        "price": 25.29,
+        "name": "Beige",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed residamus, inquit, si placet. Frater et T. Proclivi currit oratio. Non igitur bene. Itaque fecimus. Quae cum dixisset paulumque institisset, Quid est? Hic nihil fuit, quod quaereremus."
+    },
+    "FDF5E6": {
+        "hex": "FDF5E6",
+        "price": 25.67,
+        "name": "OldLace",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ille, ut dixi, vitiose. Invidiosum nomen est, infame, suspectum. Scrupulum, inquam, abeunti; Facete M. Est, ut dicis, inquam. Duo Reges: constructio interrete."
+    },
+    "FFFAF0": {
+        "hex": "FFFAF0",
+        "price": 28.57,
+        "name": "FloralWhite",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hunc vos beatum; Prioris generis est docilitas, memoria; Duo Reges: constructio interrete. Utilitatis causa amicitia est quaesita. Nos paucis ad haec additis finem faciamus aliquando; Neutrum vero, inquit ille. At coluit ipse amicitias."
+    },
+    "FFFFF0": {
+        "hex": "FFFFF0",
+        "price": 16.38,
+        "name": "Ivory",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nonne igitur tibi videntur, inquit, mala? Cur post Tarentum ad Archytam? Honesta oratio, Socratica, Platonis etiam. Refert tamen, quo modo. Duo Reges: constructio interrete. Tum mihi Piso: Quid ergo?"
+    },
+    "FAEBD7": {
+        "hex": "FAEBD7",
+        "price": 27.15,
+        "name": "AntiqueWhite",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Paria sunt igitur. Summae mihi videtur inscitiae. Poterat autem inpune; Summae mihi videtur inscitiae. Itaque ab his ordiamur. Sed fortuna fortis;"
+    },
+    "FAF0E6": {
+        "hex": "FAF0E6",
+        "price": 16.22,
+        "name": "Linen",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eademne, quae restincta siti? Quorum altera prosunt, nocent altera. Sequitur disserendi ratio cognitioque naturae; Quis enim redargueret? Prave, nequiter, turpiter cenabat; Falli igitur possumus."
+    },
+    "FFF0F5": {
+        "hex": "FFF0F5",
+        "price": 29.73,
+        "name": "LavenderBlush",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum essent dicta, discessimus. Tum Torquatus: Prorsus, inquit, assentior; Occultum facinus esse potuerit, gaudebit; Praeteritis, inquit, gaudeo. Quonam, inquit, modo? Quod quidem nobis non saepe contingit."
+    },
+    "FFE4E1": {
+        "hex": "FFE4E1",
+        "price": 52.31,
+        "name": "MistyRose",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Primum divisit ineleganter; Itaque fecimus. Quid enim? At enim hic etiam dolore. Sed nimis multa."
+    },
+    "DCDCDC": {
+        "hex": "DCDCDC",
+        "price": 2.33,
+        "name": "Gainsboro",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed haec in pueris; Quid est enim aliud esse versutum?"
+    },
+    "D3D3D3": {
+        "hex": "D3D3D3",
+        "price": 40.55,
+        "name": "LightGrey",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid nunc honeste dicit? Age, inquies, ista parva sunt. Omnia peccata paria dicitis. Quid nunc honeste dicit?"
+    },
+    "C0C0C0": {
+        "hex": "C0C0C0",
+        "price": 21.68,
+        "name": "Silver",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Verum hoc idem saepe faciamus. Quis istum dolorem timet? Prave, nequiter, turpiter cenabat; Nescio quo modo praetervolavit oratio. Duo Reges: constructio interrete."
+    },
+    "A9A9A9": {
+        "hex": "A9A9A9",
+        "price": 26.74,
+        "name": "DarkGray",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Efficiens dici potest. Urgent tamen et nihil remittunt."
+    },
+    "808080": {
+        "hex": "808080",
+        "price": 37.17,
+        "name": "Gray",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Qui est in parvis malis. Haec para\/doca illi, nos admirabilia dicamus. Nunc omni virtuti vitium contrario nomine opponitur. Sed haec omittamus; Duo Reges: constructio interrete."
+    },
+    "696969": {
+        "hex": "696969",
+        "price": 25.39,
+        "name": "DimGray",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Audeo dicere, inquit. Beatus sibi videtur esse moriens. Hos contra singulos dici est melius. Duo Reges: constructio interrete. Immo videri fortasse. Compensabatur, inquit, cum summis doloribus laetitia. Scrupulum, inquam, abeunti;",
+        "showcase": true
+    },
+    "778899": {
+        "hex": "778899",
+        "price": 50.4,
+        "name": "LightSlateGray",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laboro autem non sine causa; Nihilo magis. Quid de Platone aut de Democrito loquar? Paria sunt igitur. Quare attende, quaeso. Duo Reges: constructio interrete."
+    },
+    "708090": {
+        "hex": "708090",
+        "price": 42.45,
+        "name": "SlateGray",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Si quicquam extra virtutem habeatur in bonis. Hos contra singulos dici est melius. Tamen a proposito, inquam, aberramus. Est, ut dicis, inquit; Quid nunc honeste dicit?"
+    },
+    "2F4F4F": {
+        "hex": "2F4F4F",
+        "price": 54.3,
+        "name": "DarkSlateGray",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Itaque ad tempus ad Pisonem omnes. Philosophi autem in suis lectulis plerumque moriuntur. Quo modo autem philosophus loquitur? Quid iudicant sensus? Mihi enim satis est, ipsis non satis. Duo Reges: constructio interrete."
+    },
+    "000000": {
+        "hex": "000000",
+        "price": 12.27,
+        "name": "Black",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. An eiusdem modi? Si longus, levis."
+    }
+}

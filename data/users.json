@@ -1,0 +1,39 @@
+{
+    "admin": {
+        "username": "admin",
+        "email": "administrateur@kolorshop.fr",
+        "pass": "21232f297a57a5a743894a0e4a801fc3",
+        "style": "alternate",
+        "admin": true
+    },
+    "Pirakey": {
+        "username": "Pirakey",
+        "email": "L.Doll@live.fr",
+        "pass": "6f5112a5c380c64d7d7cbce15131b4cc",
+        "style": "main"
+    },
+    "MisterTest": {
+        "username": "MisterTest",
+        "email": "untest@mail.fr",
+        "pass": "ab4f63f9ac65152575886860dde480a1",
+        "style": "main"
+    },
+    "Utilisateur1": {
+        "username": "Utilisateur1",
+        "email": "util@util.fr",
+        "pass": "81dc9bdb52d04dc20036dbd8313ed055",
+        "style": "alternate"
+    },
+    "blabl": {
+        "username": "blabl",
+        "email": "azadafzd@azdazda.fr",
+        "pass": "202cb962ac59075b964b07152d234b70",
+        "style": "alternate"
+    },
+    "alex": {
+        "username": "alex",
+        "email": "aaa@aaa.fr",
+        "pass": "202cb962ac59075b964b07152d234b70",
+        "style": "alternate"
+    }
+}
