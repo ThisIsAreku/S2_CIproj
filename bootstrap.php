@@ -2,6 +2,8 @@
 defined('TIME_START') or define('TIME_START', microtime(true));
 require 'config.inc.php';
 
+require 'cron.php';
+
 require 'php/item.class.php';
 require 'php/user.class.php';
 require 'php/command.class.php';

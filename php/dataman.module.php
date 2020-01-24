@@ -126,7 +126,13 @@ class DataManager
 	}
 	function getCurrentUser()
 	{
-		return $this->getUsers()[$this->currentUser];
+		$users = $this->getUsers();
+		if (!isset($users[$this->currentUser])) {
+			$this->doLogout();
+			throw new \Exception('Missinguser');
+		}
+
+		return $users[$this->currentUser];
 	}
 
 	function addItem($itm, $autosave = true)
